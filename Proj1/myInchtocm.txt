@@ -1,0 +1,2 @@
+This program converts from feet and inches to centimeters.
+Number of feet? Number of inches? The corresponding length is 180.34 cm.

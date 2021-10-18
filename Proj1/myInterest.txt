@@ -1,0 +1,2 @@
+Interest calculation program.
+Starting balance? Annual interest rate percentage? Balance after one year: 6255

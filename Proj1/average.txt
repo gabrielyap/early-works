@@ -1,0 +1,3 @@
+This program averages a list of integers.
+Enter -1 to signal the end of the list.
+ ?  ?  ?  ?  ?  ? The average is 94.4

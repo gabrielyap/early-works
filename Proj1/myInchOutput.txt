@@ -1,0 +1,13 @@
+This program converts from feet and inches to centimeters.
+Number of feet? Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: Please enter a real number
+Retry: 

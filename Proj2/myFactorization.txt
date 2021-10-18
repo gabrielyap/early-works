@@ -1,0 +1,6 @@
+Enter a number to be factored:
+Please enter an integer
+Retry: Please enter an integer
+Retry: Please enter an integer
+Retry: Please enter an integer
+Retry: 
